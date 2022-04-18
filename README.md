@@ -9,27 +9,24 @@ Repository ini berisikan Latihan 9 pada mata kuliah Desain Pemrograman Berorient
 - ### Main
 
 <p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN9DPBO2022/blob/72ccfac2d96edebe83a248ee5d56b66e90bde5a0/Screenshot/main.png" alt="main"/>
+  <img width="401" alt="menu" src="https://user-images.githubusercontent.com/68465767/163831691-29ecf149-392d-4816-b089-fa8fd1a14e7c.png"> 
 </p>
 
 - ### Rumah
 
 <p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN9DPBO2022/blob/72ccfac2d96edebe83a248ee5d56b66e90bde5a0/Screenshot/rumah1.png" alt="rumah 1"/>
-</p>
-<p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN9DPBO2022/blob/72ccfac2d96edebe83a248ee5d56b66e90bde5a0/Screenshot/rumah2.png" alt="rumah 2"/>
+  <img width="283" alt="rum" src="https://user-images.githubusercontent.com/68465767/163831800-443628a8-e837-4391-b328-d5d25f0aad7b.png"> 
 </p>
 
 - ### Apartemen
 
 <p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN9DPBO2022/blob/72ccfac2d96edebe83a248ee5d56b66e90bde5a0/Screenshot/apartemen.png" alt="apartemen"/>
+  <img width="382" alt="apart" src="https://user-images.githubusercontent.com/68465767/163831825-5af431de-5b03-4be6-8883-fa0eac75b3a9.png"> 
 </p>
 
 - ### Indekos
 <p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN9DPBO2022/blob/72ccfac2d96edebe83a248ee5d56b66e90bde5a0/Screenshot/indekos.png" alt="indekos"/>
+  <img width="326" alt="inde" src="https://user-images.githubusercontent.com/68465767/163831872-2bd97b21-1dc6-49e6-a291-fd4a16f72b4a.png"> 
 </p>
 
-## ありがとう
+
